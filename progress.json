@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T02:23:17.481Z",
+  "generated_at": "2026-10-01T02:05:32.216Z",
   "items": {
     "problem:303": {
       "kind": "problem",
@@ -65,6 +65,19 @@
       "last_pushed_at": "2026-09-30T02:31:08.634Z",
       "language": "python",
       "lines": 59
+    },
+    "problem:1235": {
+      "kind": "problem",
+      "id": "1235",
+      "title": "SGD with Momentum Step",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1235",
+      "path": "problems/1235-sgd-with-momentum-step",
+      "first_solved_at": "2026-10-01T02:06:24.192Z",
+      "last_pushed_at": "2026-10-01T02:06:24.192Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
