@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T02:05:32.216Z",
+  "generated_at": "2026-10-02T04:05:43.978Z",
   "items": {
     "problem:303": {
       "kind": "problem",
@@ -78,6 +78,19 @@
       "last_pushed_at": "2026-10-01T02:06:24.192Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:1253": {
+      "kind": "problem",
+      "id": "1253",
+      "title": "Anchor Matching via IoU Assignment",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/1253",
+      "path": "problems/1253-anchor-matching-via-iou-assignment",
+      "first_solved_at": "2026-10-02T04:25:45.706Z",
+      "last_pushed_at": "2026-10-02T04:25:45.706Z",
+      "language": "python",
+      "lines": 86
     }
   }
 }
