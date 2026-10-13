@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T06:44:53.039Z",
+  "generated_at": "2026-10-13T05:26:47.063Z",
   "items": {
     "problem:303": {
       "kind": "problem",
@@ -208,6 +208,19 @@
       "last_pushed_at": "2026-10-12T06:53:52.622Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:922": {
+      "kind": "problem",
+      "id": "922",
+      "title": "Tinygrad: Implement Dropout from Scratch",
+      "difficulty": "easy",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/922",
+      "path": "problems/0922-tinygrad-implement-dropout-from-scratch",
+      "first_solved_at": "2026-10-13T06:13:27.952Z",
+      "last_pushed_at": "2026-10-13T06:13:27.952Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
