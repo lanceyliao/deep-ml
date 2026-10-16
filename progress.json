@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T06:42:55.490Z",
+  "generated_at": "2026-10-16T05:31:08.809Z",
   "items": {
     "problem:303": {
       "kind": "problem",
@@ -247,6 +247,19 @@
       "last_pushed_at": "2026-10-15T06:47:50.833Z",
       "language": "sql",
       "lines": 2
+    },
+    "problem:461": {
+      "kind": "problem",
+      "id": "461",
+      "title": "Guidance Attention Mask for Chunked Video",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/461",
+      "path": "problems/0461-guidance-attention-mask-for-chunked-video",
+      "first_solved_at": "2026-10-16T06:56:42.148Z",
+      "last_pushed_at": "2026-10-16T06:56:42.148Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
