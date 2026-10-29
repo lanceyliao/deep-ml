@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 29 problems · 0 labs · 0 math
+**30** solved · 30 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-09-28 | [solution](problems/0151-dropout-layer) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-09-25 | [solution](problems/0303-forward-diffusion-process) |
 | [Guidance Attention Mask for Chunked Video](https://www.deep-ml.com/problems/461) | medium | 2026-10-16 | [solution](problems/0461-guidance-attention-mask-for-chunked-video) |
+| [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-10-29 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-19 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Poisson Deviance and Overdispersion](https://www.deep-ml.com/problems/1367) | medium | 2026-09-29 | [solution](problems/1367-poisson-deviance-and-overdispersion) |
 | [Power Users With Purchases in Every Month of the Year](https://www.deep-ml.com/problems/1462) | medium | 2026-10-06 | [solution](problems/1462-power-users-with-purchases-in-every-month-of-the-year) |
