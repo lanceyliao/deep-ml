@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T02:28:17.315Z",
+  "generated_at": "2026-10-31T01:15:41.206Z",
   "items": {
     "problem:303": {
       "kind": "problem",
@@ -403,6 +403,19 @@
       "last_pushed_at": "2026-10-30T02:28:53.072Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:465": {
+      "kind": "problem",
+      "id": "465",
+      "title": "Bellman Expectation Equation for Action-Value Function",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/465",
+      "path": "problems/0465-bellman-expectation-equation-for-action-value-function",
+      "first_solved_at": "2026-10-31T01:19:59.436Z",
+      "last_pushed_at": "2026-10-31T01:19:59.436Z",
+      "language": "python",
+      "lines": 69
     }
   }
 }
