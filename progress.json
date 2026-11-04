@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T05:30:17.109Z",
+  "generated_at": "2026-11-04T16:56:55.134Z",
   "items": {
     "problem:303": {
       "kind": "problem",
@@ -465,7 +465,7 @@
       "url": "https://www.deep-ml.com/problems/832",
       "path": "problems/0832-image-segmentation-via-k-means-clustering",
       "first_solved_at": "2026-11-04T05:34:14.412Z",
-      "last_pushed_at": "2026-11-04T05:34:14.412Z",
+      "last_pushed_at": "2026-11-04T16:58:35.527Z",
       "language": "python",
       "lines": 55
     }
