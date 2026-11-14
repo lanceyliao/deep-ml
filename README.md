@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**41** solved · 41 problems · 0 labs · 0 math
+**42** solved · 42 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -50,6 +50,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Robust Line Fitting: Least Absolute Deviations by LP and Huber by IRLS](https://www.deep-ml.com/problems/1818) | medium | 2026-11-08 | [solution](problems/1818-robust-line-fitting-least-absolute-deviations-by-lp-and-huber-by-irls) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-01 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Zero-Copy Batch Data Loading from Shared Memory](https://www.deep-ml.com/problems/659) | medium | 2026-10-10 | [solution](problems/0659-zero-copy-batch-data-loading-from-shared-memory) |
+| [Floor-Division and Modulo Folding for Index Math](https://www.deep-ml.com/problems/1513) | hard | 2026-11-14 | [solution](problems/1513-floor-division-and-modulo-folding-for-index-math) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-12 | [solution](problems/0085-positional-encoding-calculator) |
 | [Successor Representation Learning](https://www.deep-ml.com/problems/597) | hard | 2026-09-30 | [solution](problems/0597-successor-representation-learning) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-10-22 | [solution](problems/0211-two-sample-t-test-implementation) |
