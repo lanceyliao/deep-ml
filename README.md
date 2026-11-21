@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**48** solved · 48 problems · 0 labs · 0 math
+**49** solved · 49 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Diffusion Model U-Net Time Embedding](https://www.deep-ml.com/problems/399) | medium | 2026-09-26 | [solution](problems/0399-diffusion-model-u-net-time-embedding) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-09-28 | [solution](problems/0151-dropout-layer) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-09-25 | [solution](problems/0303-forward-diffusion-process) |
+| [Graph Auto-Encoder: GCN Encoder, Inner-Product Decoder and Reconstruction BCE](https://www.deep-ml.com/problems/1901) | medium | 2026-11-21 | [solution](problems/1901-graph-auto-encoder-gcn-encoder-inner-product-decoder-and-reconstruction-bce) |
 | [Guidance Attention Mask for Chunked Video](https://www.deep-ml.com/problems/461) | medium | 2026-10-16 | [solution](problems/0461-guidance-attention-mask-for-chunked-video) |
 | [Identity Preference Optimization (IPO) Loss](https://www.deep-ml.com/problems/1262) | medium | 2026-11-20 | [solution](problems/1262-identity-preference-optimization-ipo-loss) |
 | [Image Segmentation via K-Means Clustering](https://www.deep-ml.com/problems/832) | medium | 2026-11-04 | [solution](problems/0832-image-segmentation-via-k-means-clustering) |
