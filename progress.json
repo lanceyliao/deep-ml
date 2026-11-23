@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T05:11:42.021Z",
+  "generated_at": "2026-11-23T02:35:29.764Z",
   "items": {
     "problem:303": {
       "kind": "problem",
@@ -637,6 +637,19 @@
       "last_pushed_at": "2026-11-21T05:13:08.338Z",
       "language": "python",
       "lines": 106
+    },
+    "problem:1755": {
+      "kind": "problem",
+      "id": "1755",
+      "title": "Optimal Policy from a Loss Matrix",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1755",
+      "path": "problems/1755-optimal-policy-from-a-loss-matrix",
+      "first_solved_at": "2026-11-23T02:41:27.100Z",
+      "last_pushed_at": "2026-11-23T02:41:27.100Z",
+      "language": "python",
+      "lines": 70
     }
   }
 }
